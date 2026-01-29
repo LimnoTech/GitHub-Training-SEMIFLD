@@ -1,8 +1,5 @@
-# GitHub-Training-EL
-2021 GitHub training for ERDC-EL.
-
-Following agenda and notes in the [GitHub Training for ERDC-EL](https://docs.google.com/document/d/123cKWOCoecaqxbKR5u1KZJApjuVPg6jNb6i7l5PdFr0/edit#) Google Doc.
-
+# GitHub Training SEMIFLD
+2026 GitHub training for SEMIFLD Project Collaborators
 
 
 Template for outline
