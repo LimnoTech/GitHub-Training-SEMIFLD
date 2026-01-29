@@ -1,6 +1,11 @@
 # GitHub Training SEMIFLD
 2026 GitHub training for SEMIFLD Project Collaborators
 
+```python
+import sys
+import pathlib
+```
+
 
 Template for outline
 1. x
