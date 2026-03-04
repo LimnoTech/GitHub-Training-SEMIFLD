@@ -16,7 +16,7 @@ SKIP_STEADY_STATE    NO
 
 START_DATE           06/22/2018
 START_TIME           
-REPORT_START_DATE    07/01/2018
+REPORT_START_DATE    08/01/2016
 REPORT_START_TIME    00:00:00
 END_DATE             06/22/2018
 END_TIME             00:00:00
@@ -53,7 +53,7 @@ DRY_ONLY         NO
 ;;Name           Rain Gage        Outlet           Area     %Imperv  Width    %Slope   CurbLen  SnowPack        
 ;;-------------- ---------------- ---------------- -------- -------- -------- -------- -------- ----------------
 ;*      jk      name     ngto      width     area     dcia     slope   impman   prvman   impstr   prvstr    suct     hdcon   imdmax
-1101             DesignStorm      10_L             964.503  29.8     6481.791 3.77     0                        
+1101             DesignStorm      10_L             1964.503  29.8     6481.791 3.77     0                        
 1102             DesignStorm      11_L             1849.871 21.4     8984.246 2.89     0                        
 1103             DesignStorm      12_L             1827.869 23.8     8911.222 3.49     0                        
 1104             DesignStorm      13_L             1441.496 31.4     7922.75  3.22     0                        
@@ -416,7 +416,7 @@ BC-S-2_116       DesignStorm      SFIT1830         19.2     63.9     653.399  0.
 BC-S-2_117       DesignStorm      SFIT1793         7.9      56.2     354.767  0.5      0        KDTW            
 BC-S-2_118       DesignStorm      SFIT1811         21.7     42.1     1369.93  0.5      0        KDTW            
 BC-S-2_119       DesignStorm      SMH19090         13.6     49.1     470.171  0.5      0        KDTW            
-BC-S-2_120       DesignStorm      SMH39195         32.2     41.1     1104.435 0.5      0        KDTW            
+BC-S-2_120       DesignStorm      SMH39195         132.2     41.1     1104.435 0.5      0        KDTW            
 BC-S-2_121       DesignStorm      SMH39185         17.8     57.5     570.124  0.5      0        KDTW            
 BC-S-2_122       DesignStorm      SMH20551         29.5     47.9     1460.25  0.5      0        KDTW            
 BC-S-2_123       DesignStorm      SMH27127         14.4     49.4     825.347  0.5      0        KDTW            
